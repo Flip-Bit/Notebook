@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "00b092c8e37da2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2a2faf2e4f8830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4090c7ad897dc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Networking/First Network/1 Brocade ICX 6450/5. Advanced Configurations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b712455cc99a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af142df01b773a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c02375aceb4bb5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24bb81fbd5d78d5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "678a2b6a77dbf631",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "e26bac66f37b8669",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33556bbc9bb4b18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0937c7886c875f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Networking/First Network/1 Brocade ICX 6450/5. Advanced Configurations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2231565ecdac7e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Networking/First Network/1 Brocade ICX 6450/5. Advanced Configurations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32aad5ae5eed8674",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b8f7cdce19863e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Networking/First Network/1 Brocade ICX 6450/5. Advanced Configurations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4090c7ad897dc6a",
+  "lastOpenFiles": [
+    "4. Web Development/1. Week 1/1. Getting Started.md",
+    "4. Web Development/1. Week 1/1. Terminal Basics.md",
+    "1 Networking/First Network/1 Brocade ICX 6450/5. Advanced Configurations.md",
+    "4. Web Development/1. Week 1",
+    "4. Web Development/Untitled",
+    "4. Web Development/1. Getting Started.md",
+    "4. Web Development/Untitled.md",
+    "4. Web Development",
+    "1 Networking/First Network/1 Brocade ICX 6450/4. Update POE Firmware.md",
+    "1 Networking/First Network/1 Brocade ICX 6450/3. Initial Configuration.md",
+    "1 Networking/First Network/1 Brocade ICX 6450/2. Installing Firmware.md",
+    "1 Networking/First Network/1 Brocade ICX 6450/1. Getting Ready.md",
+    "1 Networking/First Network/1 Brocade ICX 6450/7. Licensing.md",
+    "1 Networking/First Network/1 Brocade ICX 6450/6. Enable POE on a Port.md",
+    "2. System Administration/1. Hypervisors/1. ESXI/1. vCenter/2. Stop Unlicensed Server from Shutting Down.md",
+    "3. Github/1. Obsidian Backups w Windows.md",
+    "97. Funnies/1. Subtitle Bloopers/1. Gundam Wing.md",
+    "99. Images/Pasted image 20240124184542.png",
+    "99. Images/Pasted image 20240124184339.png",
+    "97. Funnies/1. Subtitle Bloopers",
+    "97. Funnies",
+    "2. System Administration/1. Hypervisors/1. ESXI/1. vCenter/1. Expired Root Password.md",
+    "1 Networking/First Network/3. PFSense/1. Getting Started.md",
+    "1 Networking/First Network/2 Aruba AP/2. Provisioning.md",
+    "1 Networking/First Network/2 Aruba AP/1. Getting Started.md",
+    "99. Images/Pasted image 20240124183555.png",
+    "99. Images/Pasted image 20240124181649.png",
+    "3. Github",
+    "98. Gaming/1. Pterodactyl Server Setup/3. Install Required Dependencies.md",
+    "98. Gaming/1. Pterodactyl Server Setup/2. Fixing BS Issues.. Or.  Getting Started Continued.....md",
+    "98. Gaming/1. Pterodactyl Server Setup/1. Getting Started.md",
+    "99. Images/Pasted image 20240124133506.png",
+    "99. Images/Pasted image 20240123194032.png",
+    "99. Images/Pasted image 20240124133432.png",
+    "2. System Administration/1. Hypervisors/1. ESXI/1. vCenter",
+    "2. System Administration/1. Hypervisors/ESXI/Untitled.md",
+    "2. System Administration/1. Hypervisors/1. ESXI",
+    "2. System Administration/1. Hypervisors/Untitled.md",
+    "2. System Administration/1. Hypervisors",
+    "2. System Administration",
+    "99. Images/Pasted image 20240123210010.png",
+    "99. Images/Pasted image 20240123205805.png",
+    "99. Images/Pasted image 20240123205736.png",
+    "1 Networking/First Network/Untitled.canvas",
+    "1 Networking/First Network/3. PFSense.md",
+    "99. Gaming/Untitled.md",
+    "Welcome.md"
+  ]
+}
